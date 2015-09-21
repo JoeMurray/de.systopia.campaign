@@ -3,7 +3,7 @@
 
 ## About Campaign-Manager
 
-The module CiviCampaign provides basic functions to link contributions with campaigns. Thus, it enables users to determine the success of a campaign e.g. in regard to „return on investment“. Such data is most important to fundraisers in order to evaluate and adapt their fundraising strategy.
+The module CiviCampaign provides basic functions to link contributions with campaigns. Thus, it enables users to determine the success of a campaign e.g. in regard to "return on investment". Such data is most important to fundraisers in order to evaluate and adapt their fundraising strategy.
 
 However, the possibilities for analyzing the outcome are very limited – e.g. there are no functions to record costs involved with a campaign action or the campaign's budget. Also, there is no campaign hierarchy which means that planning more complex campaigns (e.g. a parent campaign consisting of subsequent actions such as several online mailings, offline mailings and events) and analyzing their outcome afterwards is hardly possible without additional external tools.
 
@@ -14,13 +14,13 @@ The project aims at enhancing CiviCRM capabilities for strategic fundraising, ca
 ### Providing a campaign hierarchy
 
 Creating the possibility for parent and child campaigns 
-adapting the user interface for creating and viewing existing campaigns (e.g. a hierarchical „tree view“ and possibilities for filtering 
-creating functions that simplify campaign management (such as copying complete campaigns including subsequent campaigns and adapting campaign dates) 
+#### adapting the user interface for creating and viewing existing campaigns (e.g. a hierarchical "tree view" and possibilities for filtering 
+#### creating functions that simplify campaign management (such as copying complete campaigns including subsequent campaigns and adapting campaign dates) 
 
 ### Adding campaign fields and functions
 
-Fields/function for adding categorized costs (such as postal fees, printing costs...)
-function to calculate the overall costs of of a single campaign and it's child campaigns/actions
+#### Fields/function for adding categorized costs (such as postal fees, printing costs...)
+#### function to calculate the overall costs of of a single campaign and it's child campaigns/actions
 
 ## Installation
 Please refer to the [Installation Guide](https://github.com/systopia/de.systopia.campaign/blob/master/README.md)
